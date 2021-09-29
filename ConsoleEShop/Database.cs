@@ -10,6 +10,6 @@ namespace ConsoleEShop
         {"apple", "banana", "orange", "strawberry", "kiwi", "melon", "lemon", "papaya", "blueberry", "peach" };
 
         public static List<RegistredUser> users = new List<RegistredUser>();
-
+         public static Dictionary<>
     }
 }
