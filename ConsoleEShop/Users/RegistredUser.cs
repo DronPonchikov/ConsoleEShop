@@ -10,10 +10,16 @@ namespace ConsoleEShop
       
         public string Login { get; set; }
         public string Password { get; set; }
+       
+        public RegistredUser()
+        {
+            Right = "RegistredUser";
+        }
         public RegistredUser(string login, string password)
         {
             Login = login;
             Password = password;
+            Right = "RegistredUser";
         }
         public void MakeNewOrder()
         {

@@ -4,7 +4,14 @@ using System.Text;
 
 namespace ConsoleEShop
 {
-    class Admin
+    class Admin: RegistredUser,IUser
     {
+        
+        public Admin()
+        {
+            Login = "admin";
+            Password = "admin";
+            Right = "Admin";
+        }
     }
 }

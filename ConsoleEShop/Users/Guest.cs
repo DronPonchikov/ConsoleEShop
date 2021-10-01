@@ -4,7 +4,7 @@
 namespace ConsoleEShop
 {
     public class Guest:IUser
-    {   public int Right { get; set; }
+    {   public string Right { get { return Right; } set { Right = "Guest"; } }
 
         public void WatchGoods()
         {
