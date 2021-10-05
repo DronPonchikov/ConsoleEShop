@@ -16,3 +16,12 @@ E:\VisualC\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.Assemb
 E:\VisualC\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.csproj.CoreCompileInputs.cache
 E:\VisualC\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.dll
 E:\VisualC\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.pdb
+D:\Visual C#\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.deps.json
+D:\Visual C#\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.dll
+D:\Visual C#\ConsoleEShop\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.pdb
+D:\Visual C#\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.AssemblyInfoInputs.cache
+D:\Visual C#\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.AssemblyInfo.cs
+D:\Visual C#\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.csproj.CoreCompileInputs.cache
+D:\Visual C#\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.dll
+D:\Visual C#\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.pdb
+D:\Visual C#\ConsoleEShop\ConsoleEShop\obj\Debug\netcoreapp3.1\ConsoleEShop.csprojAssemblyReference.cache

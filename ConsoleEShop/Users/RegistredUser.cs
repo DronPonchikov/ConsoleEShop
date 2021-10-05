@@ -21,9 +21,9 @@ namespace ConsoleEShop
             Password = password;
             Right = "RegistredUser";
         }
-        public void MakeNewOrder()
+        public void MakeNewOrder(RegistredUser user)
         {
-           // Order order = new Order();
+            Order order = new Order(user);
         }
         public void OrderingOrCancellation()
         {
@@ -42,7 +42,7 @@ namespace ConsoleEShop
         {
             foreach (RegistredUser user in Database.users)
             {
-                yield return user;
+                yield return user.Login;
             }
         }
     }

@@ -13,5 +13,13 @@ namespace ConsoleEShop
             Password = "admin";
             Right = "Admin";
         }
+        public new void OrderingOrCancellation()
+        {
+
+        }
+        public void ChangeOrderStatus()
+        {
+
+        }
     }
 }

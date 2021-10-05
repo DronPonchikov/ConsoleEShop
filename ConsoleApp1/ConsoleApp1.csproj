@@ -9,4 +9,13 @@
     <ProjectReference Include="..\ConsoleEShop\ConsoleEShop.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="ConsoleApp1">
+      <HintPath>..\..\..\VisualC\ConsoleApp1\obj\Debug\ConsoleApp1.exe</HintPath>
+    </Reference>
+    <Reference Include="ConsoleEShop">
+      <HintPath>..\ConsoleEShop\bin\Debug\netcoreapp3.1\ConsoleEShop.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

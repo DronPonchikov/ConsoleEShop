@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rR+798qVl/pNFRStygaLht3x/g5NLrR0pSwJSdzg4MoYCKxYsh97rjVxaL/QqIfhiESC3Pmup/3hqYymImLUSA==",
+  "dgSpecHash": "nD2L2rpFI/1soANM/VxUSVuP8i/09MwRwgPFE4SA8Pnrodc7/OcCZJYGopB3lGgxjTfKCPBuy6wIlFV42bx03w==",
   "success": true,
-  "projectFilePath": "E:\\VisualC\\ConsoleEShop\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Visual C#\\ConsoleEShop\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

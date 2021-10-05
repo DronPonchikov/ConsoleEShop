@@ -8,8 +8,10 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Order order = new Order(); 
-            Console.WriteLine();
+            Guest ivan = new Guest();
+            ivan.Registration("111", "111");
+            
+            Console.WriteLine(ivan.Right + Database.users); 
             Console.ReadLine();
         }
     }

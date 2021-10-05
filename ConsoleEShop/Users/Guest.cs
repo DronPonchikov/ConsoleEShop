@@ -1,10 +1,15 @@
 ﻿using System;
-
+using System.Collections;
 
 namespace ConsoleEShop
 {
-    public class Guest:IUser
-    {   public string Right { get { return Right; } set { Right = "Guest"; } }
+    public class Guest : IUser
+    {
+        public string Right { get; set; }
+        public Guest()
+        {
+            Right = "Guest";
+        }
 
         public void WatchGoods()
         {
@@ -16,9 +21,8 @@ namespace ConsoleEShop
 
         public void SearchProductByName(string searchedItem)
         {
-            Console.WriteLine("Which product you wanna find?");
-            searchedItem = Console.ReadLine();
-            if (searchedItem==null)
+
+            if (searchedItem == null)
             {
                 throw new ArgumentNullException(nameof(searchedItem), "You didn't choose the good");
             }
@@ -26,25 +30,23 @@ namespace ConsoleEShop
             {
                 if (searchedItem == Database.goods[i])
                 {
-                    Console.WriteLine( $"{searchedItem} is available now and its number in order is {i}" );
+                    Console.WriteLine($"{searchedItem} is available now and its number in order is {i + 1}");
                 }
             }
         }
         public void Registration(string login, string password)
         {
-
-            RegistredUser registredUser = new RegistredUser(login, password);
-            Database.users.Add(registredUser);
+            Database.users.Add(new RegistredUser(login, password));
         }
         public void SingIn(string login, string password)
         {
             foreach (RegistredUser user in Database.users)
             {
-                if (login==user.Login && password==user.Password)
+                if (login == user.Login && password == user.Password)
                 {
                     Console.WriteLine($"Welcome {login}");
                     break;
-                    
+
                 }
                 else if (login == user.Login && password != user.Password)
                 {
@@ -57,5 +59,6 @@ namespace ConsoleEShop
                 }
             }
         }
+
     }
 }

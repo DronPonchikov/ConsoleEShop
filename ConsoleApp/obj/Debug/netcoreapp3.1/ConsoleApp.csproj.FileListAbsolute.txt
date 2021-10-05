@@ -1,0 +1,16 @@
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleEShop.dll
+D:\Visual C#\ConsoleEShop\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleEShop.pdb
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\Visual C#\ConsoleEShop\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

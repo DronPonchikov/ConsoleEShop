@@ -4,12 +4,12 @@ using System.Text;
 
 namespace ConsoleEShop
 {
-    class Database
+    public class Database
     {
        public static List<string> goods = new List<string>(10) 
         {"apple", "banana", "orange", "strawberry", "kiwi", "melon", "lemon", "papaya", "blueberry", "peach" };
 
-        public static List<RegistredUser> users = new List<RegistredUser>();
-         public static Dictionary<>
+        public static List<IUser> users = new List<IUser>();
+        public static Dictionary<RegistredUser, Order> Orders = new Dictionary<RegistredUser, Order>();
     }
 }
